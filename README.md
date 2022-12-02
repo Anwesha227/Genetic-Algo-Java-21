@@ -2,7 +2,7 @@
 
 This repository contains Java code for implementing genetic algorithms.
 The primary GA method implementations can be found in this [directory](https://github.com/Anwesha227/Genetic-Algo-Java-21/tree/main/src/main/java/geneticChurn/basicmethods)
-The summary of different implement methods is given below.
+The summary of different implemented methods is given below.
 
 
 ### Selection Methods : 
